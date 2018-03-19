@@ -33,7 +33,7 @@ Windows 8 內建 .NET 4.0 版本,你也可以升級為 [Microsoft .NET Framework
 Windows 10 內建 .NET 4.6 版本,你也可以升級為 [Microsoft .NET Framework 4.6.1](https://www.microsoft.com/zh-TW/download/details.aspx?id=49981) 版本。
 
 ## 下載與使用
-* 下載位址: [CrazyKTV_WebUpdater.exe](https://github.com/KenLuoTW/CrazyKTVSongMgr/raw/master/CrazyKTV_WebUpdater/ReleaseFile/CrazyKTV_WebUpdater.exe)
+* 下載位址: [CrazyKTV_WebUpdater.exe](https://github.com/CrazyKTV/WebUpdater/raw/master/CrazyKTV_WebUpdater/UpdateFile/CrazyKTV_WebUpdater.exe)
 
 **使用說明:**
 
